@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="chassis_part" targetId="252f6a8679004cbdbcae0062948d23f4" version="11.1" toolVersion="8.3.8" bbox="-0.761701 0.330642 -0.450100 -0.587984 0.588338 0.450100" previewImage="252f6a8679004cbdbcae0062948d23f4_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="chassis_parts_assembly" assemblyId="d5637c5b359e4fc6b74002f2755a9eb0">
+<Part name="chassis_part" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0126637 0.287161 1.68801" rotation="AD: -0.996281411210947 -0.12158234621901925 1.0151558501106277 170.444" image="chassis_part_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

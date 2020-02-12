@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="chassis_part"/>
+
+</Tracking>
+
+<Assembly name="chassis_parts_assembly" assemblyId="d5637c5b359e4fc6b74002f2755a9eb0">
+<Part name="chassis_part" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0126637 0.287161 1.68801" rotation="AD: -0.996281411210947 -0.12158234621901925 1.0151558501106277 170.444" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

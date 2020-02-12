@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="FRAME_2"/>
+
+</Tracking>
+
+<Assembly name="FRAME_2s_assembly" assemblyId="f48635da9b88427da220a0c154c54ef8">
+<Part name="FRAME_2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-2.63772 0.570497 5.24007" rotation="AD: 0.9999999999117518 0.0012948417349775726 -0.010340769115484077 194.274" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

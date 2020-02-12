@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="FRAME_2" targetId="1b5902ccdf854b0aa842b2c85c190e07" version="11.1" toolVersion="8.3.8" bbox="-5.119870 0.318900 -0.761700 -0.156700 0.886206 0.761700" previewImage="1b5902ccdf854b0aa842b2c85c190e07_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="FRAME_2s_assembly" assemblyId="f48635da9b88427da220a0c154c54ef8">
+<Part name="FRAME_2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-2.63772 0.570497 5.24007" rotation="AD: 0.9999999999117518 0.0012948417349775726 -0.010340769115484077 194.274" image="FRAME_2_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
