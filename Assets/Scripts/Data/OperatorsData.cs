@@ -5,11 +5,11 @@ using UnityEngine;
 [System.Serializable]
 public class OperatorsData
 {
-    public string OperatorsName;
+   // public string OperatorsName;
 
-    public float OperatorTime;
+   // public float OperatorTime;
 
-    public string OperatorStation;
-    public ChassisData[] chassises;
+   // public string OperatorStation;
+   // public ChassisData[] chassises;
    
 }

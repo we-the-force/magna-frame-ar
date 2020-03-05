@@ -6,7 +6,7 @@ using UnityEngine;
 [System.Serializable]
 public class ChassisData
 {
-    public string ChassisId;
-    public WeldsData[] welds;
+   // public string ChassisId;
+  //  public WeldsData[] welds;
    
 }

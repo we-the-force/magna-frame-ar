@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="chassis_01_marzo" motionHint="static"/>
+<ModelTarget name="chassis_02_marzo" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="chassis_01_marzos_assembly" assemblyId="ff483e17d84747cd991566ea74513285">
+<Part name="chassis_01_marzo" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00650819 0.188774 0.95607" rotation="AD: 0.9969540039999059 0.11263526147776165 -0.9692839803661554 189.494" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.102834 0.171688 0.997899" rotation="AD: 0.9999940404435983 0.014318263714295117 -0.2488838190049615 186.39" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.100818 0.169637 0.983499" rotation="AD: -0.994163488742427 -0.11095657417131488 4.163324297819957 179.291" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-0.0563462 0.076279 1.20827" rotation="AD: 0.9157883197742656 -0.4933083723592619 1.5174383652651011 198.384" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="0.0886994 0.0594599 1.20141" rotation="AD: 0.9990165022459145 -0.14979865410483373 0.3412620618325461 224.712" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="0.106471 0.172091 1.02008" rotation="AD: 0.9999913135280175 0.02056750216530987 -0.20799864497926515 191.057" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="chassis_02_marzos_assembly" assemblyId="cfc066f422524ee1922e013702925460">
+<Part name="chassis_02_marzo" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0729943 0.146557 1.73899" rotation="AD: 0.9923380914457395 0.18914230214386232 -0.8902991756159794 197.797" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.572776 0.363808 1.39334" rotation="AD: 0.9999575689897201 0.03365673690598821 -0.2866722730499404 192.871" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.155234 0.627217 0.439454" rotation="AD: 0.99751726017214 -0.11467662450155981 0.789368289041456 192.946" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="0.455722 0.659905 0.78466" rotation="AD: 0.8535270679489644 -0.5957166665124088 1.9369210180052463 193.616" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="0.62419 0.303736 0.508695" rotation="AD: 0.6762885992896315 0.7699224073710584 3.408240018195126 175.084" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0006" translation="-0.675321 0.459104 0.949499" rotation="AD: 0.9999999999999944 0.000020144202884418096 -0.005223806399210601 180.442" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="Magna Chassis" />
+</QCARConfig>

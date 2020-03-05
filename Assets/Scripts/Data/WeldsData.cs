@@ -5,6 +5,6 @@ using UnityEngine;
 [System.Serializable]
 public class WeldsData
 {
-    public string WeldId;
-    public string WeldStatus;
+   // public string WeldId;
+   // public string WeldStatus;
 }

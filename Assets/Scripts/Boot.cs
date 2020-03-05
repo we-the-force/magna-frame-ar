@@ -11,7 +11,8 @@ using UnityEngine.UI;
 public class Boot : MonoBehaviour
 {
 	public GameObject SuperVizor;
-    
+
+    public float _seconds;
 
     void Awake()
 	{
@@ -32,16 +33,18 @@ public class Boot : MonoBehaviour
 		{
 			throw new Exception("This Webcam library can't work without the webcam authorization");
 		}
-	}
+
+        yield return new WaitForSeconds(_seconds);
+
+        OnClickSimple();
+
+    }
 
 	#region UI Buttons
 
 	public void OnClickSimple()
 	{
-		
-		
-
-		SceneManager.LoadScene("2.operatorReader");
+		SceneManager.LoadScene("OperatorReader");
 	}
 
 	void Destroy(){

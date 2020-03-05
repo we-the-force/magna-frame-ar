@@ -16,6 +16,6 @@ public class report : MonoBehaviour
         
     }
     public void showOperatorId(){
-        Debug.Log ("Operador ID: "+ dataCtrl.report.operador.id);
+        //Debug.Log ("Operador ID: "+ dataCtrl.report.operador.id);
     }
 }
