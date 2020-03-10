@@ -1814,12 +1814,12 @@ GameObject:
   - component: {fileID: 379260552}
   - component: {fileID: 379260557}
   m_Layer: 0
-  m_Name: ModelTarget
+  m_Name: ModelTargetSegundo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &379260552
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2613,7 +2613,7 @@ MonoBehaviour:
   ImageEvidencePanel: {fileID: 2120754114}
   ModelTargetPrefab:
   - {fileID: 1497485618897941985, guid: db97d98e236e1e64f9aab2ad9b3e6566, type: 3}
-  currentModelTarget: {fileID: 379260552}
+  currentModelTarget: {fileID: 1745672568}
   UIObject: {fileID: 681582496}
   PopupObject: {fileID: 1130117392}
   ErrorMsg: {fileID: 40919615}
@@ -9720,12 +9720,12 @@ PrefabInstance:
     - target: {fileID: 1497485618897941985, guid: db97d98e236e1e64f9aab2ad9b3e6566,
         type: 3}
       propertyPath: m_Name
-      value: ModelTarget
+      value: ModelTargetPrimer
       objectReference: {fileID: 0}
     - target: {fileID: 1497485618897941985, guid: db97d98e236e1e64f9aab2ad9b3e6566,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1497485618897941989, guid: db97d98e236e1e64f9aab2ad9b3e6566,
         type: 3}
@@ -9894,6 +9894,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db97d98e236e1e64f9aab2ad9b3e6566, type: 3}
+--- !u!114 &1745672568 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5972876198342431210, guid: db97d98e236e1e64f9aab2ad9b3e6566,
+    type: 3}
+  m_PrefabInstance: {fileID: 1745672567}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a6493084d51fa478d6748c64979bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!21 &1771627815
 Material:
   serializedVersion: 6
